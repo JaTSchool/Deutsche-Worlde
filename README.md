@@ -1,2 +1,2 @@
-# Deutsche-Worlde
+# Deutsche-Wordle
 Wordle für Deutsch
